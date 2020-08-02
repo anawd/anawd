@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-paula-moraes-9b081a21/)](https://www.linkedin.com/in/ana-paula-moraes-9b081a21/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana@anawd.com)](mailto:ana@anawd.com)
+<br/>
 
 <br/>My name is Ana Paula Moraes, I am Web Designer, working as a front-end wordpress developer freelancer. With over +5 years of experience in web development building high quality websites. My specialties are websites,landing pages, and implementation of new web projects.
 
