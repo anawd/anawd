@@ -23,13 +23,16 @@
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/>
 <img src="https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress"/>
 <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass"/>
 <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"/>
 <img src="https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react"/>
 
 
-### 💻  Back-end:
+### ⚙️  Back-end e Banco de dados
 <span><img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php"/></span>
+<img src="https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb"/>
 
 
 <strong> Follow me on my Social Media <strong/>
