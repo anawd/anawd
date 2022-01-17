@@ -11,6 +11,11 @@
 
 ### Tech Stack 🛠  
 
+### 🎨 Tools Design:
+<span><img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma"/></span>
+<img src="https://img.shields.io/badge/-Zeplin-333333?style=flat&logo=zeplin"/>
+<img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=photoshop"/>
+
 
 ### 💻  Front-end:
 <span><img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5"/></span>
