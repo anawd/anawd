@@ -1,9 +1,9 @@
 ### Hi guys 👋
 
 
-<br/>My name is <strong>Ana Paula Moraes</strong>, I am Web Designer, working as a Developer Front-end WordPress Freelancer. With over +5 years of experience in web development building high quality websites. My specialties are websites,landing pages, and implementation of new web projects.
+<br/>My name is <strong>Ana Paula Moraes</strong>, I am Web Designer, working as a Developer Front-end. With over +5 years of experience in web development building high quality websites. My specialties are websites,landing pages, and implementation of new web projects.
 
-<br/> - 🔭 I’m currently working on Developer Front-end WordPress Freelancer in my company ANAWD -Desenvolvimento web.
+<br/> - 🔭 I’m currently working on Developer Front-end in my company ANAWD -Desenvolvimento web.
 <br/> - 🎓 Certification on GoStack Bootcamp from Rocketseat.
 <br/> - ⚡ Studying Technologies:: ReactJS, React Native, Typescript.
 <br/> - 🌍 Languages: Portuguese, English.
